@@ -3,6 +3,8 @@
  
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
+THIS ROADMAP WAS DEVELOPED AND DESIGNED BY [Moataz Elmesmary](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/README.md?plain=1) AND I DO NOT OWN ANY RIGHTS OVER THIS INFORMATION.
+
 <h4><i>This repository is intended to provide a free Self-Learning Roadmap to learn the field of Data Science.  I provide some of the best free resources.</i></h4><br>
 
 &emsp;&emsp;[Our Previous Roadmap](https://github.com/Seif-Mohamed1/DataScience-Squad) ♥️<br>
